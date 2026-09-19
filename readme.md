@@ -1,8 +1,20 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:D4879C&height=180&section=header&text=SALMA%20ATOU&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20SOC%20%7C%20Web%20%26%20API%20Security%20%7C%20Active%20Directory&descAlignY=58&descSize=16" width="100%" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6B2C3E,100:D4879C&height=200&section=header&text=SALMA%20ATOU&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%C2%B7%20SOC%20%C2%B7%20Web%20%26%20API%20Security%20%C2%B7%20Active%20Directory&descAlignY=56&descSize=15" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=D4879C&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+-p-+target.local;%24+burpsuite+--scan+%2F%2Fapi.target.com;%24+bloodhound-python+-d+domain.local+-c+all;%24+splunk+search+%22index%3D*+sourcetype%3Dfirewall%22;%5B%2B%5D+Vulnerability+confirmed+%E2%80%94+generating+report..." alt="terminal typing" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/salma-atou-532846332">
+  <img src="https://img.shields.io/badge/LinkedIn-Salma%20Atou-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=D4879C&labelColor=1a1a2e" />
+</a>
+<a href="mailto:Salmaatouofficiel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Salmaatouofficiel%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D4879C&labelColor=1a1a2e" />
+</a>
+<a href="https://tryhackme.com/p/yourprofile">
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=D4879C&labelColor=1a1a2e" />
+</a>
 
 </div>
 
@@ -19,6 +31,26 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4879C,100:1a1a2e&height=3&width=800" />
+
+</div>
+
+<div align="center">
+
+### `Salma Atou`
+
+**Cybersecurity Engineer** — Security Operations · Offensive Security · Active Directory
+
+<samp>Fes, Morocco &nbsp;·&nbsp; Open to SOC / Pentest / AppSec opportunities</samp>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/salma-atou-532846332"><b>linkedin.com/in/salma-atou</b></a> &nbsp;·&nbsp; <a href="mailto:Salmaatouofficiel@gmail.com"><b>Salmaatouofficiel@gmail.com</b></a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:D4879C&height=3&width=800" />
 
 </div>
 
@@ -123,9 +155,23 @@ Domain enumeration and attack path mapping · Kerberoasting, AS-REP Roasting, Pa
 
 ## Contact
 
-Email — youremail@example.com
-LinkedIn — linkedin.com/in/yourprofile
-TryHackMe — tryhackme.com/p/yourprofile
+<div align="center">
+
+<a href="mailto:Salmaatouofficiel@gmail.com">
+  <img src="https://img.shields.io/badge/Salmaatouofficiel%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D4879C" />
+</a>
+<a href="https://www.linkedin.com/in/salma-atou-532846332">
+  <img src="https://img.shields.io/badge/Salma%20Atou-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=D4879C" />
+</a>
+<a href="https://tryhackme.com/p/yourprofile">
+  <img src="https://img.shields.io/badge/TryHackMe-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=D4879C" />
+</a>
+
+</div>
+
+**Email** — [Salmaatouofficiel@gmail.com](mailto:Salmaatouofficiel@gmail.com)
+**LinkedIn** — [linkedin.com/in/salma-atou-532846332](https://www.linkedin.com/in/salma-atou-532846332)
+**TryHackMe** — tryhackme.com/p/yourprofile
 
 <div align="center">
 
