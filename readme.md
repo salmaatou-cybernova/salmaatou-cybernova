@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6B2C3E,100:D4879C&height=200&section=header&text=SALMA%20ATOU&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%C2%B7%20SOC%20%C2%B7%20Web%20%26%20API%20Security%20%C2%B7%20Active%20Directory&descAlignY=56&descSize=15" width="100%" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=D4879C&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+-p-+target.local;%24+burpsuite+--scan+%2F%2Fapi.target.com;%24+bloodhound-python+-d+domain.local+-c+all;%24+splunk+search+%22index%3D*+sourcetype%3Dfirewall%22;%5B%2B%5D+Vulnerability+confirmed+%E2%80%94+generating+report..." alt="terminal typing" />
 
