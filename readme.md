@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6B2C3E,100:D4879C&height=200&section=header&text=SALMA%20ATOU&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%C2%B7%20SOC%20%C2%B7%20Web%20%26%20API%20Security%20%C2%B7%20Active%20Directory&descAlignY=56&descSize=15" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=D4879C&center=true&vCenter=true&width=700&lines=%24+nmap+-sV+-p-+target.local;%24+burpsuite+--scan+%2F%2Fapi.target.com;%24+bloodhound-python+-d+domain.local+-c+all;%24+splunk+search+%22index%3D*+sourcetype%3Dfirewall%22;%5B%2B%5D+Vulnerability+confirmed+%E2%80%94+generating+report..." alt="terminal typing" />
 
@@ -91,6 +91,7 @@ Domain enumeration and attack path mapping · Kerberoasting, AS-REP Roasting, Pa
 <img src="https://img.shields.io/badge/Zeek-1a1a2e?style=for-the-badge&logoColor=D4879C" />
 <img src="https://img.shields.io/badge/Suricata-1a1a2e?style=for-the-badge&logoColor=D4879C" />
 <img src="https://img.shields.io/badge/Snort-1a1a2e?style=for-the-badge&logoColor=D4879C" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1a1a2e?style=for-the-badge&logo=cisco&logoColor=D4879C" />
 
 **Web / API Testing**
 <br/>
@@ -119,6 +120,22 @@ Domain enumeration and attack path mapping · Kerberoasting, AS-REP Roasting, Pa
 <img src="https://img.shields.io/badge/PowerShell-1a1a2e?style=for-the-badge&logo=powershell&logoColor=D4879C" />
 <img src="https://img.shields.io/badge/Bash-1a1a2e?style=for-the-badge&logo=gnubash&logoColor=D4879C" />
 
+**Programming Languages**
+<br/>
+<img src="https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=D4879C" />
+<img src="https://img.shields.io/badge/C%2B%2B-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=D4879C" />
+<img src="https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=D4879C" />
+
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=databricks&logoColor=D4879C" />
+<img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-1a1a2e?style=for-the-badge&logo=oracle&logoColor=D4879C" />
+
+**Computer Science Fundamentals**
+<br/>
+<img src="https://img.shields.io/badge/Data%20Structures-1a1a2e?style=for-the-badge&logoColor=D4879C" />
+<img src="https://img.shields.io/badge/Algorithms-1a1a2e?style=for-the-badge&logoColor=D4879C" />
+
 **Platforms**
 <br/>
 <img src="https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=D4879C" />
@@ -129,12 +146,13 @@ Domain enumeration and attack path mapping · Kerberoasting, AS-REP Roasting, Pa
 
 ## Certifications
 
+- **IBM — Introduction to Cloud Computing**
 - CompTIA Security+
 - eJPT / eWPT
 - OSCP — *in progress*
 - SOC Analyst Certification
 
-*(update with your actual credentials)*
+*(update the remaining entries with your actual credentials)*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4879C,100:1a1a2e&height=3&width=800" />
 
